@@ -27,7 +27,7 @@ const GigDescription = () => {
       </p>
 
       <p className="text-sm font-normal pb-3 border-b border-gray-300">
-        You can easily contact me to discuss anything I'm always here for you.
+        You can easily contact me to discuss anything Iam always here for you.
         <br />
         <br />
         <b>Note:</b>

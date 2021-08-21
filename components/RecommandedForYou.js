@@ -16,7 +16,7 @@ import SwiperCore, { Navigation } from "swiper/core";
 // install Swiper modules
 SwiperCore.use([Navigation]);
 
-export default () => {
+const RecommandedForYou = () => {
   return (
     <div className="w-11/12 mx-auto grid grid-cols-3 gap-7 pt-10">
       <div className="md:col-span-2 col-span-3">
@@ -55,3 +55,5 @@ export default () => {
     </div>
   );
 };
+
+export default RecommandedForYou;

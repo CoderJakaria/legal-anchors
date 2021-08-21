@@ -61,7 +61,7 @@ const PricingBox = () => {
         <button
           onClick={() => comps(basic, "basic")}
           className={`${
-            buttonActive == "basic" && "button_active"
+            buttonActive == `basic` && `button_active`
           } pricing_button outline-none font-semibold text-md  p-2 w-4/12 border-b border-r border-gray-400`}
         >
           Basic
@@ -69,7 +69,7 @@ const PricingBox = () => {
         <button
           onClick={() => comps(standard, "standard")}
           className={`${
-            buttonActive == "standard" && "button_active"
+            buttonActive == `standard` && `button_active`
           } pricing_button outline-none font-semibold text-md  p-2 w-4/12 border-b border-r border-gray-400`}
         >
           Standard
@@ -77,7 +77,7 @@ const PricingBox = () => {
         <button
           onClick={() => comps(premium, "premium")}
           className={`${
-            buttonActive == "premium" && "button_active"
+            buttonActive == `premium` && `button_active`
           } pricing_button outline-none font-semibold text-md  p-2 w-4/12 border-b border-gray-400`}
         >
           Premium

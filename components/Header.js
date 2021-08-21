@@ -27,7 +27,7 @@ const Header = () => {
         {/* NavLinks */}
         <div
           className={`flex items-center sm:flex-row flex-col mx-auto ${
-            isNavbar ? "navbar_close" : "navbar_open"
+            isNavbar ? `navbar_close` : `navbar_open`
           }`}
         >
           <a

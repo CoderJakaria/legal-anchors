@@ -83,7 +83,7 @@ const GigBody = () => {
 
           {/* Pricing box */}
           <div
-            className={`${show && "pricebox_fixed md:fixed relative"} pricebox`}
+            className={`${show && `pricebox_fixed md:fixed relative`} pricebox`}
           >
             {/* The box where client find pricing thing */}
             <PricingBox />

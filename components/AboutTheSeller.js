@@ -80,7 +80,7 @@ const AboutTheSeller = () => {
               years and helped them grow. I also have experience of development
               in React/React Native so I know the needs of developers. I love my
               field, do creative stuff, and help businesses. Check through my
-              gigs, shoot me a message, let's discuss your requirements, and
+              gigs, shoot me a message, lets discuss your requirements, and
               start working together towards success!
             </p>
           </div>

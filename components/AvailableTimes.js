@@ -113,7 +113,7 @@ const AvailableTimes = () => {
         {/* Bottom texts */}
         <div className="text-center mt-5">
           <h1 className="text-2xl mb-3 font-medium">
-            Don't see a time that works for you?
+            Dont see a time that works for you?
           </h1>
           <button className="border border-green-500 rounded-md text-green-500 px-10 py-2">
             Show Alternative Times

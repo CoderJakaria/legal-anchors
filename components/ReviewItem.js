@@ -62,7 +62,7 @@ const ReviewItem = () => {
             <span></span>
           </div>
           <span className="text-sm font-semibold text-black">
-            Seller's Response
+            Seller Response
           </span>
         </div>
       </div>
