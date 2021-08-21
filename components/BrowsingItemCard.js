@@ -5,12 +5,9 @@ import LocationOnOutlinedIcon from "@material-ui/icons/LocationOnOutlined";
 import FavoriteIcon from "@material-ui/icons/Favorite";
 
 const BrowsingItemCard = () => {
-  const [text] =
-    useState(` Staatlich geprüfte Grafikdesignerin mit Fachhochschulreife. Ich habe
-    ein halbes Jahr als Aushilfe bei Heimann Werbung gearbeitet und habe
-    bereits 2 Jahre Berufserfahrung als Webdesignerin bei einer
-    Webagentur. In den Firmen dquardat und Das Schauwerk konnte ich zudem
-    Erfahrung in der praktischen Projektumsetzung sammeln.`);
+  const [text] = useState(
+    "Staatlich geprüfte Grafikdesignerin mit Fachhochschulreife. Ich habe ein halbes Jahr als Aushilfe bei Heimann Werbung gearbeitet und habe bereits 2 Jahre Berufserfahrung als Webdesignerin bei einer Webagentur. In den Firmen dquardat und Das Schauwerk konnte ich zudem Erfahrung in der praktischen Projektumsetzung sammeln."
+  );
 
   const [showMore, setShowMore] = useState(false);
 
