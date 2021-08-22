@@ -21,7 +21,7 @@ const Header = () => {
       <div className="mx-auto md:w-11/12  flex sm:flex-grow sm:items-center items-start md:flex-row flex-col">
         {/* Nav logo */}
         <div className="md:mb-0 mb-5 flex-grow mr-5">
-          <img src="Logo.svg" alt="logo" width="270" className="sm:w-64 w-48" />
+          <img src="Logo.svg" alt="logo" width="300" className="sm:w-80 w-48" />
         </div>
 
         {/* NavLinks */}
